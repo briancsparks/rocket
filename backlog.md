@@ -25,5 +25,6 @@
 - patches for st and dwm
 - Go + React + Node for Desktop
 - QuickJS in C for Go
+- Term-2-term - the GDB second term trick
 
 
